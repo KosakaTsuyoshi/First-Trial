@@ -1,0 +1,10 @@
+body {
+	height: 5000px;
+}
+
+.num {
+	margin: 0;
+	position: fixed;
+	right: 10px;
+	top: 10px;
+}
