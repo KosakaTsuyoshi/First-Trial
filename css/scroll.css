@@ -8,3 +8,27 @@ body {
 	right: 10px;
 	top: 10px;
 }
+
+.box {
+	position: fixed;
+	top: 90px;
+	width: 100px;
+	height: 100px;
+}
+
+#box1 {
+	background: #fe2002;
+	left: 10px;
+}
+#box2 {
+	background: #fe7833;
+	left: 120px;
+}
+#box3 {
+	background: #feb468;
+	left: 230px;
+}
+#box4 {
+	background: #fee09c;
+	left: 340px;
+}
